@@ -1,211 +1,451 @@
-
 <div align="center">
 
-# 👋 Hi, I'm **Kartik Mantri**
+# 👋 Hi, I'm <span style="color:#38BDF8;">Kartik Mantri</span>
 
-### AI Research • Computer Vision • Deep Learning • Web3
+### Building AI • Exploring Computer Vision • Learning by Building
 
-> *Building intelligent AI systems by transforming research into real-world applications.*
-
-<p>
-<a href="https://github.com/KartikMantri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Builder;Computer+Vision+Enthusiast;LLM+Explorer;Hackathon+Builder;Open+Source+Learner"/>
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=KartikMantri&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p align="center">
+
+<a href="https://github.com/KartikMantri">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=KartikMantri&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="./Assets/output.gif" width="100%" alt="Banner"/>
+<img src="./Assets/output.gif" width="100%">
 </p>
 
 ---
 
 # 🚀 About Me
 
-I'm a **Computer Science undergraduate at LNMIIT Jaipur** passionate about **Artificial Intelligence, Computer Vision, Deep Learning, Medical AI, and Blockchain**.
+I'm **Kartik**, a Computer Science undergraduate at **The LNM Institute of Information Technology (LNMIIT), Jaipur**, passionate about building software that solves meaningful problems.
 
-Recently, I completed my **Research Internship at IIITDM Jabalpur**, where I implemented and experimented with multiple state-of-the-art medical image segmentation architectures including **U-Net, W-Net, U-KAN, and Dual-Decoder Networks**. My focus was understanding architectural trade-offs through implementation rather than simply reproducing published results.
+I enjoy working at the intersection of **Artificial Intelligence**, **Computer Vision**, **Large Language Models**, and **Blockchain**, constantly exploring how emerging technologies can be transformed into practical applications.
 
-I enjoy building AI systems from scratch, reading research papers, contributing to hackathons, and exploring cutting-edge technologies.
-
----
-
-# 🔭 Currently Working On
-
-- 🤖 Large Language Models (LLMs)
-- 🧠 Vision Language Models
-- 🩺 Medical Image Segmentation
-- 📚 Research Paper Implementations
-- 🚀 AI-powered Applications
-- ⚙️ System Design
-- 🌐 AI × Web3
+Rather than just learning concepts, I enjoy implementing them—from research papers and hackathon ideas to full-stack applications and AI-powered systems. Every project is an opportunity to experiment, improve, and grow as an engineer.
 
 ---
 
-# 💬 Ask Me About
+# 🌱 Current Focus
 
-- Deep Learning
-- Computer Vision
-- PyTorch
-- Image Segmentation
-- U-Net Family
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+- Building AI-powered applications
+- Exploring Agentic AI
+- Learning LLM workflows
 - Prompt Engineering
-- RAG
+
+</td>
+
+<td width="50%">
+
+### 👁️ Computer Vision
+
+- Medical Image Segmentation
+- U-Net Architectures
+- Deep Learning
+- PyTorch Experiments
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Development
+
+- Full Stack Development
+- Backend APIs
+- System Design
+- Clean Architecture
+
+</td>
+
+<td width="50%">
+
+### ⛓️ Blockchain
+
 - Solidity
-- Competitive Programming
-- Open Source
+- Smart Contracts
+- Foundry
+- Decentralized Applications
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
+# 💡 What Drives Me
 
-## 💻 Languages
+I enjoy building projects that combine software engineering with intelligent systems.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,solidity"/>
-</p>
+Whether it's implementing ideas from research papers, building AI products, experimenting with Web3, or participating in hackathons, I'm always looking for opportunities to learn something new by building it.
 
-## 🤖 AI / ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-<br>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Prompt_Engineering-7B68EE?style=for-the-badge">
-</p>
-
-## 🌐 Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,mongodb,mysql,git,github,docker,linux,vscode"/>
-</p>
-
-## ⛓️ Blockchain
-
-<p align="center">
-<img src="https://img.shields.io/badge/Foundry-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white">
-</p>
+> **"The best way to learn technology is to build with it."**
 
 ---
-
-# 🌟 Featured Experience
-
-## 🔬 Research Intern — IIITDM Jabalpur
-
-- Implemented U-Net, W-Net, U-KAN, and Dual-Decoder architectures.
-- Built complete PyTorch training pipelines.
-- Evaluated models using Dice Score and IoU.
-- Studied architectural design choices through experimentation.
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KartikMantri&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikMantri&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikMantri&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KartikMantri&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
-## 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikMantri&theme=tokyo-night&hide_border=true"/>
-</p>
-
-## 🐍 Contribution Snake
-
-> **Requires a GitHub Action to generate `output/github-contribution-grid-snake-dark.svg`.**
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/KartikMantri/KartikMantri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-# 📚 Research Interests
 
 <div align="center">
 
-🩺 Medical AI • 👁 Computer Vision • 🤖 Deep Learning • 🧠 LLMs • 📖 Vision Transformers • 🌐 AI × Web3
+### 🚀 Always Learning • Always Building • Always Curious
 
 </div>
 
 ---
 
-# 🎯 Current Goals
-
-- Publish impactful research
-- Build production-ready AI applications
-- Contribute to Open Source
-- Win global hackathons
-- Master System Design
-
----
-
-# 🗺️ Journey
-
-```text
-JEE
- │
- ▼
-LNMIIT Jaipur
- │
- ▼
-Research Internship
-IIITDM Jabalpur
- │
- ▼
-Medical Image Segmentation
- │
- ▼
-AI • LLMs • Computer Vision
- │
- ▼
-Building Real-World AI Products
-```
-
----
-
-# ☕ Buy Me a Coffee
-
-> Replace `YOUR_USERNAME` with your Buy Me a Coffee username.
+# 🌟 Featured Projects
 
 <p align="center">
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=YOUR_USERNAME&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"/>
+Projects that reflect my interests in AI, Computer Vision, Blockchain, and Full-Stack Development.
+</p>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 PayPerUseAI
+
+A decentralized **pay-per-inference AI platform** that combines blockchain with AI, enabling secure on-chain payments and controlled access to AI models.
+
+**Highlights**
+
+- 🔹 AI + Web3 Integration
+- 🔹 Smart Contract Authorization
+- 🔹 Pay-per-use Architecture
+- 🔹 Secure Model Access
+
+**Tech Stack**
+
+`Python` `Solidity` `Foundry` `Blockchain`
+
+<br>
+
+<a href="YOUR_PAYPERUSEAI_REPO">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👁️ Medical Image Segmentation
+
+Research implementations of modern segmentation architectures for retinal fundus image analysis, focusing on optic disc and optic cup segmentation.
+
+**Highlights**
+
+- 🔹 U-Net Variants
+- 🔹 Deep Learning
+- 🔹 Medical Imaging
+- 🔹 Research Implementation
+
+**Tech Stack**
+
+`PyTorch` `OpenCV` `Python`
+
+<br>
+
+<a href="YOUR_RESEARCH_REPO">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 LNMIIT LMS
+
+A Learning Management System built to simplify academic workflows with authentication, course management, and a clean user experience.
+
+**Highlights**
+
+- 🔹 Authentication
+- 🔹 Dashboard
+- 🔹 Course Management
+- 🔹 Responsive UI
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB`
+
+<br>
+
+<a href="YOUR_LMS_REPO">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 Expense Tracker
+
+A backend-focused application for managing expenses with secure authentication, REST APIs, and persistent data storage.
+
+**Highlights**
+
+- 🔹 REST APIs
+- 🔹 Authentication
+- 🔹 CRUD Operations
+- 🔹 Database Integration
+
+**Tech Stack**
+
+`Express.js` `MongoDB` `JavaScript`
+
+<br>
+
+<a href="YOUR_EXPENSE_REPO">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚡ Tech Arsenal
+
+<p align="center">
+Technologies I enjoy building with.
+</p>
+
+### 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,solidity"/>
+
 </p>
 
 ---
 
-# 🌍 Let's Connect
+### 🤖 AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css"/>
+
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+
+</p>
+
+---
+
+# 📖 Currently Exploring
+
+<table>
+
+<tr>
+
+<td>
+
+🧠 Vision Language Models
+
+</td>
+
+<td>
+
+🤖 Agentic AI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+⚡ AI Infrastructure
+
+</td>
+
+<td>
+
+🏗️ Distributed Systems
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🌍 Open Source
+
+</td>
+
+<td>
+
+🔍 Retrieval-Augmented Generation (RAG)
+
+</td>
+
+</tr>
+
+</table>
+
+---
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/KartikMantri"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KartikMantri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikMantri&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="65%" src="https://streak-stats.demolab.com?user=KartikMantri&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KartikMantri&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KartikMantri&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KartikMantri/KartikMantri/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+> ⚠️ This image won't appear until we configure the GitHub Action in Version 3.
+
+---
+
+# 📅 Coding Activity
+
+<div align="center">
+
+| 📌 | |
+|:---:|:---|
+| 🚀 **Currently Building** | AI-powered applications, Computer Vision systems & Full-Stack projects |
+| 📚 **Currently Learning** | Vision Language Models, Agentic AI, System Design |
+| 🌱 **Open To** | AI Research • Open Source • Hackathons • Collaboration |
+| 💬 **Ask Me About** | Python • C++ • Deep Learning • Computer Vision • Blockchain |
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+I'm always excited to connect with developers, researchers, and builders who enjoy solving interesting problems.
+
+Whether it's collaborating on an AI project, discussing research papers, building open-source software, or brainstorming hackathon ideas—feel free to reach out!
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KartikMantri">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
@@ -213,8 +453,10 @@ Building Real-World AI Products
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+## 💙 Thanks for Visiting!
 
-*"Research begins where implementation meets curiosity."*
+*"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
