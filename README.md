@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-<img src="./Assets/output.gif" width="100%">
+<img src="./Assets/ezgif-4efd473fa4ce749c.gif" width="100%">
 </p>
 
 ---
