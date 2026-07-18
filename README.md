@@ -122,7 +122,9 @@ Whether it's implementing ideas from research papers, building AI products, expe
 # 🌟 Featured Projects
 
 <p align="center">
-A selection of projects spanning AI, Computer Vision, Blockchain, and Full-Stack Development.
+
+<i>Building intelligent software across AI, Computer Vision, Blockchain and Full-Stack Development.</i>
+
 </p>
 
 ---
@@ -131,16 +133,29 @@ A selection of projects spanning AI, Computer Vision, Blockchain, and Full-Stack
 
 > **Decentralized pay-per-request AI platform powered by x402 on Monad Blockchain.**
 
-- ⚡ AI + Blockchain
-- 💳 Pay-per-request Architecture
-- 🔐 Smart Contract Authorization
-- 🌐 Decentralized AI Access
+<p align="center">
+
+<img src="./Assets/payperuseai.png" width="100%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-6E40C9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/x402-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Monad-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity"/>
+
+</p>
 
 <p align="center">
 
 <a href="https://github.com/KartikMantri/pay-per-request-prompt-x402">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikMantri&repo=pay-per-request-prompt-x402&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -148,20 +163,33 @@ A selection of projects spanning AI, Computer Vision, Blockchain, and Full-Stack
 
 ---
 
-## 👁️ Medical Image Segmentation
+## 👁️ Glaucoma Segmentation
 
-> **Research implementations of modern deep learning architectures for glaucoma detection and retinal image segmentation.**
+> **Research implementations of deep learning models for optic disc and optic cup segmentation on retinal fundus images.**
 
-- 🧠 U-Net
-- 👁️ Medical Imaging
-- 🔬 Deep Learning
-- 📊 REFUGE Dataset
+<p align="center">
+
+<img src="./Assets/glaucoma.png" width="100%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/U--Net-00B894?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Medical_AI-0EA5E9?style=for-the-badge"/>
+
+</p>
 
 <p align="center">
 
 <a href="https://github.com/KartikMantri/Research-Internship-Glucoma-detection-Segmentation-Models-">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikMantri&repo=Research-Internship-Glucoma-detection-Segmentation-Models-&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -171,18 +199,31 @@ A selection of projects spanning AI, Computer Vision, Blockchain, and Full-Stack
 
 ## 🎓 LNMIIT LMS
 
-> **Modern Learning Management System with authentication, administration, and library management.**
+> **A modern Learning Management System featuring authentication, role-based access, and library management.**
 
-- 📚 Library Management
-- 👤 Authentication
-- 🏫 Role-based Access
-- 💻 Responsive Dashboard
+<p align="center">
+
+<img src="./Assets/lms.png" width="100%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
 
 <p align="center">
 
 <a href="https://github.com/KartikMantri/LNMIIT_LMS">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikMantri&repo=LNMIIT_LMS&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -192,24 +233,38 @@ A selection of projects spanning AI, Computer Vision, Blockchain, and Full-Stack
 
 ## 💰 Expense Tracker
 
-> **Expense tracking application with analytics, monthly reports, and intuitive user experience.**
+> **A responsive expense management application with analytics, reports, and an intuitive dashboard.**
 
-- 📈 Expense Analytics
-- 💳 Transaction Management
-- 📅 Monthly Reports
-- 🎨 Responsive UI
+<p align="center">
+
+<img src="./Assets/expense.png" width="100%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge"/>
+
+</p>
 
 <p align="center">
 
 <a href="https://github.com/KartikMantri/expense_tracker">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikMantri&repo=expense_tracker&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
 </p>
 
 ---
+
 
 # ⚡ Tech Arsenal
 
