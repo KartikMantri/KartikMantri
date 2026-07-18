@@ -411,15 +411,6 @@ Technologies I enjoy building with.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KartikMantri&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"/>
-
-</p>
-
----
 
 
 ## 🐍 Contribution Snake
