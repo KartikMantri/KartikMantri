@@ -394,17 +394,18 @@ Technologies I enjoy building with.
 
 ---
 
-# 🐍 Contribution Snake
+
+## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/KartikMantri/KartikMantri/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KartikMantri/KartikMantri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KartikMantri/KartikMantri/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/KartikMantri/KartikMantri/output/github-contribution-grid-snake.svg">
+</picture>
 
 </p>
-
-> ⚠️ This image won't appear until we configure the GitHub Action in Version 3.
-
----
 
 # 📅 Coding Activity
 
