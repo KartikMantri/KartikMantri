@@ -169,7 +169,7 @@ Whether it's implementing ideas from research papers, building AI products, expe
 
 <p align="center">
 
-<img src="./Assets/glaucoma.png" width="100%"/>
+<img src="Assets/glucoma.png" width="100%"/>
 
 </p>
 
