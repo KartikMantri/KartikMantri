@@ -119,123 +119,95 @@ Whether it's implementing ideas from research papers, building AI products, expe
 </div>
 
 ---
-
 # 🌟 Featured Projects
 
 <p align="center">
-Projects that reflect my interests in AI, Computer Vision, Blockchain, and Full-Stack Development.
+A selection of projects spanning AI, Computer Vision, Blockchain, and Full-Stack Development.
 </p>
 
-<table>
-<tr>
+---
 
-<td width="50%" valign="top">
+## 🤖 PayPerUseAI
 
-### 🤖 PayPerUseAI
+> **Decentralized pay-per-request AI platform powered by x402 on Monad Blockchain.**
 
-A decentralized **pay-per-inference AI platform** that combines blockchain with AI, enabling secure on-chain payments and controlled access to AI models.
+- ⚡ AI + Blockchain
+- 💳 Pay-per-request Architecture
+- 🔐 Smart Contract Authorization
+- 🌐 Decentralized AI Access
 
-**Highlights**
-
-- 🔹 AI + Web3 Integration
-- 🔹 Smart Contract Authorization
-- 🔹 Pay-per-use Architecture
-- 🔹 Secure Model Access
-
-**Tech Stack**
-
-`Python` `Solidity` `Foundry` `Blockchain`
-
-<br>
+<p align="center">
 
 <a href="https://github.com/KartikMantri/pay-per-request-prompt-x402">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikMantri&repo=pay-per-request-prompt-x402&theme=tokyonight&hide_border=true"/>
+
 </a>
 
-</td>
+</p>
 
-<td width="50%" valign="top">
+---
 
-### 👁️ Medical Image Segmentation
+## 👁️ Medical Image Segmentation
 
-Research implementations of modern segmentation architectures for retinal fundus image analysis, focusing on optic disc and optic cup segmentation.
+> **Research implementations of modern deep learning architectures for glaucoma detection and retinal image segmentation.**
 
-**Highlights**
+- 🧠 U-Net
+- 👁️ Medical Imaging
+- 🔬 Deep Learning
+- 📊 REFUGE Dataset
 
-- 🔹 U-Net Variants
-- 🔹 Deep Learning
-- 🔹 Medical Imaging
-- 🔹 Research Implementation
-
-**Tech Stack**
-
-`PyTorch` `OpenCV` `Python`
-
-<br>
+<p align="center">
 
 <a href="https://github.com/KartikMantri/Research-Internship-Glucoma-detection-Segmentation-Models-">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikMantri&repo=Research-Internship-Glucoma-detection-Segmentation-Models-&theme=tokyonight&hide_border=true"/>
+
 </a>
 
-</td>
+</p>
 
-</tr>
+---
 
-<tr>
+## 🎓 LNMIIT LMS
 
-<td width="50%" valign="top">
+> **Modern Learning Management System with authentication, administration, and library management.**
 
-### 🎓 LNMIIT LMS
+- 📚 Library Management
+- 👤 Authentication
+- 🏫 Role-based Access
+- 💻 Responsive Dashboard
 
-A Learning Management System built to simplify academic workflows with authentication, course management, and a clean user experience.
-
-**Highlights**
-
-- 🔹 Authentication
-- 🔹 Dashboard
-- 🔹 Course Management
-- 🔹 Responsive UI
-
-**Tech Stack**
-
-`React` `Node.js` `MongoDB`
-
-<br>
+<p align="center">
 
 <a href="https://github.com/KartikMantri/LNMIIT_LMS">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikMantri&repo=LNMIIT_LMS&theme=tokyonight&hide_border=true"/>
+
 </a>
 
-</td>
+</p>
 
-<td width="50%" valign="top">
+---
 
-### 💰 Expense Tracker
+## 💰 Expense Tracker
 
-A backend-focused application for managing expenses with secure authentication, REST APIs, and persistent data storage.
+> **Expense tracking application with analytics, monthly reports, and intuitive user experience.**
 
-**Highlights**
+- 📈 Expense Analytics
+- 💳 Transaction Management
+- 📅 Monthly Reports
+- 🎨 Responsive UI
 
-- 🔹 REST APIs
-- 🔹 Authentication
-- 🔹 CRUD Operations
-- 🔹 Database Integration
-
-**Tech Stack**
-
-`Express.js` `MongoDB` `JavaScript`
-
-<br>
+<p align="center">
 
 <a href="https://github.com/KartikMantri/expense_tracker">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikMantri&repo=expense_tracker&theme=tokyonight&hide_border=true"/>
+
 </a>
 
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
