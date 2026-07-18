@@ -14,21 +14,19 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kartik-mantri-20a328321/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kartikmantri24@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/kartik__mantri/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=KartikMantri&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
 
 </div>
 
@@ -150,7 +148,7 @@ A decentralized **pay-per-inference AI platform** that combines blockchain with 
 
 <br>
 
-<a href="YOUR_PAYPERUSEAI_REPO">
+<a href="https://github.com/KartikMantri/pay-per-request-prompt-x402">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
@@ -175,7 +173,7 @@ Research implementations of modern segmentation architectures for retinal fundus
 
 <br>
 
-<a href="YOUR_RESEARCH_REPO">
+<a href="https://github.com/KartikMantri/Research-Internship-Glucoma-detection-Segmentation-Models-">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
@@ -204,7 +202,7 @@ A Learning Management System built to simplify academic workflows with authentic
 
 <br>
 
-<a href="YOUR_LMS_REPO">
+<a href="https://github.com/KartikMantri/LNMIIT_LMS">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
@@ -229,7 +227,7 @@ A backend-focused application for managing expenses with secure authentication, 
 
 <br>
 
-<a href="YOUR_EXPENSE_REPO">
+<a href="https://github.com/KartikMantri/expense_tracker">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
@@ -435,11 +433,11 @@ Whether it's collaborating on an AI project, discussing research papers, buildin
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kartik-mantri-20a328321/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kartikmantri24@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
