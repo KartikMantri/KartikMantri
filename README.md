@@ -383,9 +383,9 @@ Technologies I enjoy building with.
 </table>
 
 ---
-# 📊 GitHub Analytics
+<! --📊 GitHub Analytics >
 
-<p align="center">
+<!-- <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KartikMantri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
@@ -393,29 +393,29 @@ Technologies I enjoy building with.
 
 </p>
 
-<p align="center">
+<p align="center"> -->
 
-<img width="65%" src="https://streak-stats.demolab.com?user=KartikMantri&theme=tokyonight&hide_border=true"/>
+<!-- <img width="65%" src="https://streak-stats.demolab.com?user=KartikMantri&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
+--- -->
 
-# 📈 Contribution Activity
+//📈 Contribution Activity
 
-<p align="center">
+<!-- <p align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KartikMantri&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
----
+--- -->
 
 
 
-## 🐍 Contribution Snake
+//🐍 Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KartikMantri/KartikMantri/output/github-contribution-grid-snake-dark.svg">
@@ -423,7 +423,7 @@ Technologies I enjoy building with.
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/KartikMantri/KartikMantri/output/github-contribution-grid-snake.svg">
 </picture>
 
-</p>
+</p> -->
 
 # 📅 Coding Activity
 
