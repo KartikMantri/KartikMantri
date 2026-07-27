@@ -40,7 +40,7 @@
 
 # 🚀 About Me
 
-I'm **Kartik**, a Computer Science undergraduate at **The LNM Institute of Information Technology (LNMIIT), Jaipur**, passionate about building software that solves meaningful problems.
+I'm **Kartik**, a Computer Science undergraduate at **The LNM Institute of Information Technology (LNMIIT), Jaipur**, passionate about building software that solves meaningful problems (mostly that are mine :))
 
 I enjoy working at the intersection of **Artificial Intelligence**, **Computer Vision**, **Large Language Models**, and **Blockchain**, constantly exploring how emerging technologies can be transformed into practical applications.
 
