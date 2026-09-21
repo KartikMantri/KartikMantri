@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm <span style="color:#38BDF8;">Kartik Mantri</span>
 
-### Building AI • Exploring Computer Vision • Learning by Building
+### Building AI Applications • Exploring Computer Vision Models • Learning by Building
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Developer;GenAI+Entusiast;Computer+Vision+Enthusiast+(Former+Internship);LLM+Explorer;Hackathon+Builder;Open+Source+Learner"/>
